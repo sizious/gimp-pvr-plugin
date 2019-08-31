@@ -1,0 +1,10 @@
+PVR (Dreamcast texture/image) plugin for GIMP, written by Per Hedbor,
+using code from Marcus pvr plugin for Pike.
+
+To install in the global gimp plugin directory, type 
+make global
+
+To install in your gimp plugin directory, type 
+make local
+
+Requires gimp 1.1.*
